@@ -4,7 +4,7 @@ var contact1 = {
   number: "970-546-9345",
   company: "Show Biz"
 
-var contact2 = {
+contact2 = {
   name: "Mom",
   number: "555-555-5555"
   company: "Real Estate"
